@@ -3,11 +3,11 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-  color: ElectricBlue;
+  color: RoyalBlue;
   text-align: center;
 }
 .assignment {
-  background-color: CherryRed;
+  background-color: Red;
   margin: 10px;
   padding: 10px;
 }
