@@ -1,13 +1,13 @@
 body {
-  background: CadetBlue;
+  background: LimeGreen;
   font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-  color: DarkGray;
+  color: ElectricBlue;
   text-align: center;
 }
-.assignment{
-  background-color: darkgray;
+.assignment {
+  background-color: CherryRed;
   margin: 10px;
   padding: 10px;
 }
