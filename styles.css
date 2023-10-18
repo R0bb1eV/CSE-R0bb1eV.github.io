@@ -1,18 +1,18 @@
 body {
-  background: LimeGreen;
+  background: DarkBlue;
   font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-  color: RoyalBlue;
+  color: LightGray;
   text-align: center;
 }
 .assignment {
-  background-color: Red;
+  background-color: LightGray;
   margin: 10px;
   padding: 10px;
 }
 .assignment img{
-  width: 200px;
+  width: 400px;
   padding: 10px;
 }
   
