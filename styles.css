@@ -6,16 +6,15 @@ h1{
   color: Gray;
   text-align: center;
 }
-.assign {
-background-color: darkgray;
+.assign{
+  background-color: darkgray;
   margin: 10px;
   padding: 10px;
-  display: flex;
+}
+.assign img{
+  width: 200px;
+  padding: 10px;
+}
   
-}
-.assign img {
-    width: 200px;
-    padding: 10px;
-}
 
 
