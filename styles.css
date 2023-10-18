@@ -6,12 +6,12 @@ h1{
   color: Gray;
   text-align: center;
 }
-.assign{
+.assignment{
   background-color: darkgray;
   margin: 100px;
   padding: 100px;
 }
-.assign img{
+.assignment img{
   width: 200px;
   padding: 10px;
 }
